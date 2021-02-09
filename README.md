@@ -9,7 +9,7 @@ Copy nebula.service file to /etc/systemd/system
 
 Then run the below 2 commands
 
-`systemctl start nebula`
+`sudo systemctl start nebula`
 
-`systemctl enable nebula`
+`sudo systemctl enable nebula`
 
